@@ -1,1 +1,1 @@
-# MedicalDA05_pygame-ver2-
+# pygame
